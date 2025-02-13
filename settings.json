@@ -1,7 +1,0 @@
-{
-    "editor.inlayHints.enabled": "offUnlessPressed",
-
-    "files.associations": {
-        "*.fsproj": "xml"
-        }
-}
